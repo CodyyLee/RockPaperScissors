@@ -41,6 +41,7 @@ module.exports = {
         'scissorsDark': 'hsl(40, 84%, 43%)',
         'lizard': 'hsl(261, 73%, 60%)',
         'spoc': 'hsl(189, 59%, 53%)',
+        'overlay-black': 'rgba(0,0,0,0.9)'
       },
       fontFamily: {
         'barlow': ['Barlow Semi Condensed', 'sans-serif']
