@@ -9,7 +9,7 @@ export default function ({score}) {
 
         <div className=' py-4 bg-slate-100 w-[27%] md:w-[20%] flex flex-col justify-center items-center rounded-lg'>
             <p className='uppercase leading-none text-blue-800 font-bold text-[.5rem] opacity-90 mb-[-.3em] md:text-[.7rem]'>Score</p>
-            <h2 className='text-4xl text-zinc-600 font-bold tracking-[-.15em] pr-[.2em] md:text-6xl md:mt-[-.15em] leading-none'>{score}</h2>
+            <h2 className='text-4xl text-zinc-600 font-bold tracking-[-.15em] pr-[.2em] md:text-6xl md:mt-[-.1em] leading-none'>{score}</h2>
         </div>
     </div>
   )
